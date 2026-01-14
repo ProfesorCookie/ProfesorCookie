@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @ProfesorCookie
-- 👀 I’m interested in videogames, cars, computers
-- 🌱 I’m currently learning python, but i'm crap in it
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - https://steamcommunity.com/id/profesor_cookie
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Student at CZ uni with a little knowledge of C, Python, electronics and math.
+  
+
+TODO
+---
+= Finish 1st year  
+= Get better at programming  
+= Get a job  
+= Learn Linux and find best distro  
+---
+
+All my repositories are projects for each subject, that i currently attend.
 
 <!---
 ProfesorCookie/ProfesorCookie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
